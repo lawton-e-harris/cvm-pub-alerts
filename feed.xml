@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>UGA CVM Faculty Publications</title>
+    <link>https://github.com/lawton-e-harris/cvm-pub-alerts</link>
+    <description>New publications by University of Georgia College of Veterinary Medicine faculty, detected via PubMed and ORCID.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Apr 2026 00:10:08 +0000</lastBuildDate>
+    <item>
+      <title>Probiotic Prophylaxis for Enterococcus cecorum Prevalence in the Free Thoracic Vertebra of Broiler Chickens.</title>
+      <link>https://doi.org/10.1637/aviandiseases-D-25-00031</link>
+      <description>Authors: Jones Matthew K, Hofacre Charles L, Suyemoto M Mitsu, McKinley Enid T, Smith Alexandra H, Delago Jodi, Berghaus Roy D, Baxter Virginia A, Smith John A | Journal: Avian diseases | Published: 2026-04-01 | Department: Other | Source: PubMed</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1637/aviandiseases-D-25-00031</guid>
+    </item>
+  </channel>
+</rss>
