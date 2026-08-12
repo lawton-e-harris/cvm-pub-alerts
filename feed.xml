@@ -13,7 +13,73 @@
     <category>Veterinary Medicine</category>
     <category>Academic Research</category>
     <category>University of Georgia</category>
-    <lastBuildDate>Tue, 11 Aug 2026 18:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:23:55 +0000</lastBuildDate>
+    <item>
+      <title>VAMP3 vesicles support host protein recruitment and Plasmodium liver stage development. — mBio, 2026</title>
+      <link>https://doi.org/10.1128/mbio.01430-26</link>
+      <description>[Infectious Diseases]  |  PubMed
+Authors: Chirgwin Michael E, Gan Chelsea, Godinez-Macias Karla P, Choe Kaitlyn, Shiau Justine C, Calla Jaeson, Kyle Dennis E, Winzeler Elizabeth A, Derbyshire Emily R
+Journal: mBio  |  Published: 2026-08-12  |  PMID: 42478859  |  DOI: 10.1128/mbio.01430-26
+
+Plasmodium remodels the host liver cell as an obligatory step in malaria infection. Although several host proteins are recruited to the parasitophorous vacuole membrane (PVM) after invasion, the mechanisms underlying this acquisition remain unknown. Here, we validated the upregulation and recruitment of the host protein CGA during liver stage Plasm...
+
+https://doi.org/10.1128/mbio.01430-26</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1128/mbio.01430-26</guid>
+      <author>Chirgwin Michael E</author>
+      <dc:creator>Chirgwin Michael E, Gan Chelsea, Godinez-Macias Karla P, Choe Kaitlyn, Shiau Justine C, Calla Jaeson, Kyle Dennis E, Winzeler Elizabeth A, Derbyshire Emily R</dc:creator>
+      <dc:subject>Infectious Diseases</dc:subject>
+      <category>Infectious Diseases</category>
+      <category>mBio</category>
+    </item>
+    <item>
+      <title>Alignment-free prediction of cross-reactivity in influenza A (H3N2) anticipates antigenic drift. — PLoS computational biology, 2026</title>
+      <link>https://doi.org/10.1371/journal.pcbi.1014628</link>
+      <description>[Infectious Diseases]  |  PubMed
+Authors: Forna Alpha, Damodaran Lambodhar, Gunning Christian E, Rahimi Parnian, Venkat Aarya, Kannan Natarajan, Kondor Rebecca, Bahl Justin, Rohani Pejman, Drake John M
+Journal: PLoS computational biology  |  Published: 2026-08-11  |  PMID: 42579720  |  DOI: 10.1371/journal.pcbi.1014628
+
+Since its introduction in 1968, Influenza A (H3N2) has undergone continuous antigenic evolution, necessitating frequent vaccine updates. To predict antigenicity and characterize antigenic drift without multiple sequence alignments, we present FluEmbed, a computational framework that leverages protein language models. FluEmbed accurately quantified...
+
+https://doi.org/10.1371/journal.pcbi.1014628</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1371/journal.pcbi.1014628</guid>
+      <author>Forna Alpha</author>
+      <dc:creator>Forna Alpha, Damodaran Lambodhar, Gunning Christian E, Rahimi Parnian, Venkat Aarya, Kannan Natarajan, Kondor Rebecca, Bahl Justin, Rohani Pejman, Drake John M</dc:creator>
+      <dc:subject>Infectious Diseases</dc:subject>
+      <category>Infectious Diseases</category>
+      <category>PLoS computational biology</category>
+    </item>
+    <item>
+      <title>Convergent biology, divergent drivers: a cross-species comparison of human and canine invasive urothelial carcinoma — 2026</title>
+      <link>https://doi.org/10.64898/2026.08.05.742970</link>
+      <description>[Pathology]  |  ORCID
+Published: 2026-08-11  |  DOI: 10.64898/2026.08.05.742970
+
+https://doi.org/10.64898/2026.08.05.742970</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.64898/2026.08.05.742970</guid>
+      <dc:subject>Pathology</dc:subject>
+      <category>Pathology</category>
+    </item>
+    <item>
+      <title>Alignment-free prediction of cross-reactivity in influenza A (H3N2) anticipates antigenic drift. — PLoS computational biology, 2026</title>
+      <link>https://doi.org/10.1371/journal.pcbi.1014628</link>
+      <description>[Other]  |  PubMed
+Authors: Forna Alpha, Damodaran Lambodhar, Gunning Christian E, Rahimi Parnian, Venkat Aarya, Kannan Natarajan, Kondor Rebecca, Bahl Justin, Rohani Pejman, Drake John M
+Journal: PLoS computational biology  |  Published: 2026-08-11  |  PMID: 42579720  |  DOI: 10.1371/journal.pcbi.1014628
+
+Since its introduction in 1968, Influenza A (H3N2) has undergone continuous antigenic evolution, necessitating frequent vaccine updates. To predict antigenicity and characterize antigenic drift without multiple sequence alignments, we present FluEmbed, a computational framework that leverages protein language models. FluEmbed accurately quantified...
+
+https://doi.org/10.1371/journal.pcbi.1014628</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://doi.org/10.1371/journal.pcbi.1014628</guid>
+      <author>Forna Alpha</author>
+      <dc:creator>Forna Alpha, Damodaran Lambodhar, Gunning Christian E, Rahimi Parnian, Venkat Aarya, Kannan Natarajan, Kondor Rebecca, Bahl Justin, Rohani Pejman, Drake John M</dc:creator>
+      <dc:subject>Other</dc:subject>
+      <category>Other</category>
+      <category>PLoS computational biology</category>
+    </item>
     <item>
       <title>Primary Care Clinical Rotations Are Associated with Shifts in Senior Veterinary Students' Perceptions of Scope, Complexity, and Career Alignment. — Journal of veterinary medical education, 2026</title>
       <link>https://doi.org/10.3138/jvme-2026-0040</link>
